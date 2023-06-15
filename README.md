@@ -1,4 +1,5 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src=" 
+WhatsApp Image 2023-06-15 at 14.39.37.jpeg" /></a></p>
 
 
 I'm a Computer Science student passionate about Cybersecurity
