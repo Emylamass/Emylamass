@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%"  src="WhatsApp Image 2023-06-15 at 14.54.11.jpeg" 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%"  src="WhatsApp_Image_2023-06-15_at_14.54.11-removebg-preview.png" 
 WhatsApp Image 2023-06-15 at 14.39.37.jpeg" /></a></p>
 
 
