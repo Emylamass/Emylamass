@@ -31,13 +31,7 @@ I'm a Computer Science student passionate about Cybersecurity
 </div>
 
 <p align="center">
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emylamass&show_icons=true&theme=radical" alt="Estatísticas GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylamass&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p>
+ 
 </p>
 
 
