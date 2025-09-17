@@ -28,23 +28,32 @@ I'm a Computer Science student passionate about Cybersecurity
   <img align="center" alt="Ubiratan-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Ubiratan-GitLab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Ubiratan-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="Ubiratan-Apache" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />        
-  <img align="center" alt="Ubiratan-Terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img align="center" alt="Ubiratan-Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </div>
 
- <a href="https://github.com/Emylamass/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Emylamass&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true" alt="Anurag's github stats" /></a> |<a href="https://github.com/Emylamass/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylamass&layout=compact&theme=moltack&hide_border=true"/></a> 
-| ------------- | ------------- |
+<p align="center">
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emylamass&show_icons=true&theme=radical" alt="Estatísticas GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylamass&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+</p>
+</p>
 
 
 
+## 📫 Contact <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="30">
 
+<p align="center">
+  <a href="mailto:emillylamas22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emilly-lamas-51b645372/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
   <br />
 
  
-<div> 
-  
-  ![snake gif](https://github.com/EmyLamass/EmyLamass/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
