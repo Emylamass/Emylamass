@@ -19,10 +19,15 @@ Sou apaixonada por tecnologia! Sou iniciante no universo da programação, amo u
  
 </div>
 
-##
-<div>
-<a href="https://github.com/Emylamass/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylamass&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emylamass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Emylamass&show_icons=true&theme=dracula&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylamass&layout=compact&theme=dracula"/>
+    </td>
+  </tr>
+</table>
