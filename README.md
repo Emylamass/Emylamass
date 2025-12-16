@@ -1,6 +1,5 @@
 ## Emilly Lamas
-### Hello, There!!👋
-<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/73598764/185957979-bf0dd72a-4343-4e3e-afda-2056ff1bd7ff.png">
+<img align="right" width="250px" style="margin-top:-20px" src="octocat-1765899179073.png">
 
 Sou apaixonada por tecnologia! Sou iniciante no universo da programação, amo um novo desafio, a meta é aprender e distribuir conhecimento !  ❤
 
@@ -22,7 +21,7 @@ Sou apaixonada por tecnologia! Sou iniciante no universo da programação, amo u
 
 ##
 <div>
-<a href="https://github.com/ThalitaAlves783/">
+<a href="https://github.com/Emylamass/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylamass&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emylamass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
