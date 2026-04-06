@@ -15,19 +15,7 @@ Sou apaixonada por tecnologia! Sou iniciante no universo da programação, amo u
 <div display="inline-block">
  <p align="left">🤿 Faço parte da comunidade <a href="https://www.instagram.com/girls.intech/">Ânima - Girls in Tech</a>;</p>
   <p align="left">👯  Participei como instrutora discente no Projeto FavelaWare,uma iniciativa voltada para a formação de jovens programadores, de 15 a 22 anos <a href="https://favelaware.animahub.com.br/sobre">Projeto FavelaWare</a>;</p>
- <p align="left">📚 Tenho estudado python e Pericia Forense </p>
+ 
  
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Emylamass&show_icons=true&theme=dracula&count_private=true"/>
-    </td>
-    <td>
-      <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylamass&layout=compact&theme=dracula"/>
-    </td>
-  </tr>
-</table>
