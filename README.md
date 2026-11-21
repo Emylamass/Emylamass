@@ -5,14 +5,11 @@
 </div>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/emilly-lamas-51b645372/)">
+  <a href="[![LinkedIn](https://img.shields.io/badge/LinkedIn-198754?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-lamas-51b645372/)">
     <img src="https://img.shields.io/badge/LinkedIn-198754?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:emillylamas@icloud.com">
     <img src="https://img.shields.io/badge/Email-20c997?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Emylamass">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio_%26_Write--ups-0f5132?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
 
