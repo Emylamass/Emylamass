@@ -1,6 +1,7 @@
 <!-- Banner em tons de verde escuro, menta e esmeralda -->
+<!-- Banner em tons de verde escuro, menta e esmeralda com o nome Emilly Lamas -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:062925,50:0f5132,100:20c997&height=180&section=header&text=Ol%C3%A1,%20eu%20sou%20%5BSeu%20Nome%5D%20%F0%9F%8C%BF&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Ciberseguran%C3%A7a%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Per%C3%ADcia%20Forense&descAlignY=60&descSize=16" alt="Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:062925,50:0f5132,100:20c997&height=180&section=header&text=Ol%C3%A1,%20eu%20sou%20Emilly%20Lamas%20%F0%9F%8C%BF&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Ciberseguran%C3%A7a%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Per%C3%ADcia%20Forense&descAlignY=60&descSize=16" alt="Banner Emilly Lamas" />
 </div>
 
 <p align="center">
@@ -64,7 +65,6 @@ Sou uma profissional apaixonada por **Cibersegurança**, **Automação** e **Per
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&bg_color=062925&title_color=20c997&icon_color=20c997&text_color=e9f7f2&border_color=0f5132&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&bg_color=062925&title_color=20c997&text_color=e9f7f2&border_color=0f5132" alt="Top Languages"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emylamass&show_icons=true&bg_color=062925&title_color=20c997&icon_color=20c997&text_color=e9f7f2&border_color=0f5132&include_all_commits=true&count_private=true" alt="GitHub Stats Emylamass"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emylamass&layout=compact&langs_count=6&bg_color=062925&title_color=20c997&text_color=e9f7f2&border_color=0f5132" alt="Top Languages Emylamass"/>
 </div>
-
