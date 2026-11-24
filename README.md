@@ -49,15 +49,6 @@ Sou uma profissional apaixonada por **Cibersegurança**, **Automação** e **Per
 
 ---
 
-### 🌸 Projetos em Destaque
-
-| Projeto | Foco | Tecnologias |
-| :--- | :--- | :--- |
-| **[Nome do Projeto 1]** | Automação de coleta / análise de logs[cite: 1, 3] | `Python` `Regex`[cite: 3] |
-| **[Nome do Projeto 2]** | Laboratório / Fluxo de análise forense[cite: 1, 3] | `Forense` `Linux`[cite: 3] |
-| **[Nome do Projeto 3]** | Ferramenta ou painel web de apoio[cite: 1, 3] | `HTML` `CSS` `JS` `Java`[cite: 1, 3, 4] |
-
----
 
 ### 📊 Estatísticas no GitHub
 
